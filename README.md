@@ -1,8 +1,8 @@
 # llm-persona-skin-tone-annotations
 ---
+This repository contains code and data for our study examining whether large language models (LLMs) can reproduce diverse human social perspectives in skin tone annotation through persona-framed prompt engineering. Using 72 synthetic faces and four LLMs (GPT-4, Claude, Llama, Gemini), we show how persona-framed prompts systematically shift Monk Skin Tone ratings, reveal low inter-model agreement, and highlight both opportunities and risks for scalable fairness auditing in healthcare AI.  
 
-This project investigates whether large language models (LLMs) can emulate diverse human social perspectives in skin tone annotation through persona-framed prompt engineering. Using 72 synthetic facial images and four LLMs (GPT-4, Claude, Llama, Gemini), we assess how racial, ethnic, and experiential persona prompts influence Monk Skin Tone ratings, quantify inter-model agreement, and explore implications for scalable fairness auditing in healthcare AI.
-
+All scripts and analyses are provided to ensure full reproducibility of the results presented in the manuscript.
 ---
 
 ## Setting Up the Environment
