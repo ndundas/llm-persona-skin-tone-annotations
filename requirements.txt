@@ -1,0 +1,14 @@
+openai 
+pandas
+numpy
+Pillow
+aisuite
+python-dotenv
+xai-sdk
+scipy
+statsmodels
+pingouin
+krippendorff
+rpy2
+matplotlib
+vaderSentiment
